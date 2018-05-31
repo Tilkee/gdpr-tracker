@@ -1,0 +1,55 @@
+{
+  "id": "tilkee",
+  "name": "Tilkee",
+  "description": "Tilkee will revolutionise how you sell by analysing how, when and for how long your documents are read.",
+  "categories": [
+    "CRM",  "Sales enablement","Marketing automation"
+  ],
+  "iconUrl": "https://cdn.tilkee.com/wp-content/uploads/sites/30/2016/11/cropped-Icône_tilkee-blanc-270x270.png",
+  "website": "https://www.tilkee.com",
+  "applicationUrl": "https://app.tilkee.com",    
+  "twitter": "tilkeeapp",
+  "countryHQ": "FR",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.tilkee.com/personal-data-protection-policy/",
+  "dsarUrl": "https://privacy.tilkee.com/en",
+  "dpaUrl": "https://privacy.tilkee.com/en",
+  "subprocessorsUrl": "https://privacy.tilkee.com/en",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "AWS",     "MS Azure", "Orange CloudWatt"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Simon Gaudin",
+      "email": "dpo@tilkee.com",
+      "region": "EU"
+    }, 
+    {
+      "type": "CTO",
+      "name": "Tim Saumet",
+      "email": "tim@tilkee.com",
+      "region": "EU"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "04/20/2018",
+      "url": "https://www.tilkee.com/gdpr/"
+    },
+	{
+      "date": "05/12/2018",
+      "url": "https://www.tilkee.com/gdpr-and-tilkee-for-sales-what-is-the-impact/"
+    }
+	
+  ],
+  "bugBountyProgramUrl": "https://app.yogosha.com/organization/bugbounties/110/",
+  "statusUrl": "http://status.tilkee.com/",
+  "statusTwitter": "beatswitchstatus",
+  "verified": true
+}
